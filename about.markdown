@@ -5,4 +5,4 @@ permalink: /about/
 ---
 
 Aperture Leatherworks
-Leather goods handmane in England.
+Leather goods handmade in England.
