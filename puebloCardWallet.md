@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Portfolio
-permalink: /portfolio/
+title: Pueblo Card Wallet
+permalink: /puebloCardWallet/
 
 layout: default
 images:
@@ -17,7 +17,7 @@ images:
     title: Pueblo Card Wallet 5
 ---
 
-<ul class="portfolio">
+<ul class="puebloCardWallet">
   {% for image in page.images %}
     <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
   {% endfor %}
