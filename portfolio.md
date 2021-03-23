@@ -7,6 +7,8 @@ layout: default
 images:
   - image_path: /images/firstCardHolder/cardholder.jpg
     title: Card Holder
+  - image_path: /images/firstCardWallet/cardwallet.jpg
+    title: Card Holder
 ---
 
 <ul class="portfolio">
