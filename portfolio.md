@@ -15,10 +15,15 @@ images:
     title: Pen Case 1
   - image_path: /images/puebloCardWallet/pcw1.jpg
     title: Pueblo Card Wallet 1
+	link: /puebloCardWallet.html
 ---
 
 <ul class="portfolio">
   {% for image in page.images %}
-    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+    <li>
+	  <a href="{{ image.link }}">
+	    <img src="{{ image.image_path }}" alt="{{ image.title}}"/>
+	  </a>
+	</li>
   {% endfor %}
 </ul>
