@@ -35,6 +35,9 @@ header_pages:
  - portfolio.md
  - products.md
  - contact.md
+ 
+pages:
+ - pueblocardwallet.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
