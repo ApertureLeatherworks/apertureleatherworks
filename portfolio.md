@@ -24,10 +24,6 @@ images:
 
 <ul class="portfolio">
   {% for image in page.images %}
-    <li>
-      <a href="{{ image.link }}">
-        <img src="{{ image.image_path }}" alt="{{ image.title}}"/>
-      </a>
-    </li>
+    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
   {% endfor %}
 </ul>
