@@ -23,15 +23,15 @@ images:
     title: Pen Case 1
   - image_path: /images/firstPenCase/pencase2.jpg
     title: Pen Case 2
-  - image_path: /images/puebloCardWalet/pcw1.jpg
+  - image_path: /images/puebloCardWallet/pcw1.jpg
     title: Pueblo Card Wallet 1
-  - image_path: /images/puebloCardWalet/pcw2.jpg
+  - image_path: /images/puebloCardWallet/pcw2.jpg
     title: Pueblo Card Wallet 2
-  - image_path: /images/puebloCardWalet/pcw3.jpg
+  - image_path: /images/puebloCardWallet/pcw3.jpg
     title: Pueblo Card Wallet 3
-  - image_path: /images/puebloCardWalet/pcw4.jpg
+  - image_path: /images/puebloCardWallet/pcw4.jpg
     title: Pueblo Card Wallet 4
-  - image_path: /images/puebloCardWalet/pcw5.jpg
+  - image_path: /images/puebloCardWallet/pcw5.jpg
     title: Pueblo Card Wallet 5
 ---
 
