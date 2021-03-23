@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pueblo Card Wallet
-permalink: /puebloCardWallet/
+permalink: /pueblocardwallet/
 
 layout: default
 images:
