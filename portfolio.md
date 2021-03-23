@@ -19,7 +19,6 @@ images:
 
   - image_path: /images/puebloCardWallet/pcw1.jpg
     title: Pueblo Card Wallet 1
-	link: /pueblocardwallet.html
 ---
 
 <ul class="portfolio">
